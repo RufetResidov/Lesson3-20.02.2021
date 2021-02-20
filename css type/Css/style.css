@@ -1,0 +1,185 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+ 
+#first
+{text-align: center ;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg);
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 16rem;
+} 
+    #first h1{
+        color: #212529;
+    margin: 0px 0px 4px;
+    font-size: 64px;
+    margin-bottom: 20px;
+    }
+    #first h3{
+        color: #212529;
+    margin: 0px 0px 4px;
+    font-size: 24px;
+margin-bottom: 60px;}
+    #first a{
+        background-color: #1d809f;
+        color:#fff;
+        box-sizing: border-box;
+        cursor: pointer;
+        font-weight: bold;
+        padding: 20px 40px;
+        text-decoration: none;
+        border-radius: 5px;
+    }
+    #second{
+        background-color: #f8f9fa;
+        padding: 8rem 0 ;
+        text-align: center;
+
+    }
+    #second h2{
+        font-size: 2rem;
+margin-top: 10px;
+        color: #212529;
+    }
+    #second p{
+        color: #212529;
+        font-size: 1.25rem ;
+        margin-bottom: 50px;
+    }
+    #second .s1{ 
+        text-decoration: none;
+    }
+    #second .s2{
+         background-color:#343a40 ;
+        color:#fff;
+        box-sizing: border-box;
+        cursor: pointer;
+        font-weight: bold;
+        padding: 20px 40px;
+        text-decoration: none;
+        border-radius: 5px;}
+.third{
+background-color: #1d809f;
+padding: 10rem 0;
+font-size: 29px;
+
+}
+.third-text{
+    text-align: center;
+}
+.third-text h3{
+    color: #ecb807;
+    font-size: 2rem;
+}
+
+.third-text h2{
+    color: #fff;
+    font-size: 3rem; 
+    margin: 50px 0px 20px;
+}
+.third .all .box {
+    text-align: center;
+    width: 25%;
+    float: left;
+}
+.box h4 {
+    color:#fff;
+font-size: 24px;
+}
+.box p {
+    color:rgba(255,255,255,.7);
+    font-size: 16px;
+margin-top: 12px;}
+.third i{
+    background-color:#fff;
+    color: #1d809f;
+
+    font-size: 2.25rem;
+    border-radius: 100%;
+    padding: 20px 25px;
+}
+.fourth{
+   text-align: center;
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   font-size: 29px;
+   padding: 15rem 0;
+       background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg);
+}
+.fourth h2{
+    color:rgb(33, 37, 41);
+    margin-bottom: 50px;
+    font-size: 56px;
+}
+.fourth a{
+    background-color:#343a40 ;
+    color:#fff;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 20px 40px;
+    text-decoration: none;
+    border-radius: 5px;}
+
+    .five{
+        background-color: #1d809f;
+        padding: 8rem 0;
+        text-align: center;
+    }
+.five h2{
+    color: #fff;
+    font-size: 32px;
+    margin-bottom: 3rem
+    
+}
+.five a.a1{
+border-color: #e2e6ea;
+    background-color:#e2e6ea;
+    color: #212529;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 20px 40px;
+    text-decoration: none;
+    font-size: 16px;
+    margin-right: 1.5rem;
+    border-radius: .25rem
+
+}
+.five a.a2{
+     background-color: #343a40;
+    border-color: #343a40;
+    color: #fff;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 20px 40px;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: .25rem
+}
+
+.map{
+    padding: 5px 0px ;
+}
+.social{
+    text-align: center;
+   padding: 80px;
+}
+.social i{
+   background-color: #1d809f;
+   color: #fff;
+   margin: 0 10px;
+   border-radius: 100%;
+   font-size: 20px;
+padding: 20px;
+box-sizing: border-box;
+cursor: pointer;
+}
+.social p{
+    font-size: 13px;
+    margin-top: 30px;
+    color:#6c757d;}
